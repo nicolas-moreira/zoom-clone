@@ -11,7 +11,7 @@
   <p align="center">
     A simple zoom clone made with peer js and socket.io powered by nodeJs 
 </p>
-
+<a href="https://zoomclonenmo.herokuapp.com/">Live demo</a>
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
@@ -49,6 +49,8 @@ npm install
 ```sh
 npm start
 ```
+A unique id is generated when a user hits the '/' page, then the user is redirected to the page with that id.
+When someone else joins this room a peer connection is established.
 
 ## Todo list
 
