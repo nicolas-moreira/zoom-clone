@@ -65,4 +65,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Nicolas Moreira - [Linkedin](https://www.linkedin.com/in/nicolas-o-moreira/) - nicolasmoreira.pro@gmail.com
 
-Lien du projet: [https://github.com/nicolas-moreira/genrequizz](https://github.com/nicolas-moreira/genrequizz)
+Project link: [https://github.com/nicolas-moreira/zoom-clone](https://github.com/nicolas-moreira/zoom-clone)
